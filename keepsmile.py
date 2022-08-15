@@ -6,7 +6,7 @@ import asyncio
 from .const import LOGGER
 
 WRITE_CHARACTERISTIC_UUIDS = ["0000fff3-0000-1000-8000-00805f9b34fb"]
-READ_CHARACTERISTIC_UUIDS  = ["0000fff3-0000-1000-8000-00805f9b34fb"]
+READ_CHARACTERISTIC_UUIDS  = ["0000ff01-0000-1000-8000-00805f9b34fb"]
 
 async def discover():
     """Discover Bluetooth LE devices."""
