@@ -5,7 +5,7 @@ from homeassistant.core import HomeAssistant
 from homeassistant.const import CONF_MAC
 
 from .const import DOMAIN
-from .triones import TrionesInstance
+from .keepsmile import TrionesInstance
 
 PLATFORMS = ["light"]
 

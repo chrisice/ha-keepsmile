@@ -2,7 +2,7 @@ import logging
 import voluptuous as vol
 from typing import Any, Optional, Tuple
 
-from .triones import TrionesInstance
+from .keepsmile import TrionesInstance
 from .const import DOMAIN
 
 from homeassistant.const import CONF_MAC

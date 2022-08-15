@@ -1,5 +1,5 @@
 import asyncio
-from .triones import discover, TrionesInstance
+from .keepsmile import discover, TrionesInstance
 from typing import Any
 
 from homeassistant import config_entries
