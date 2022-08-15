@@ -1,4 +1,4 @@
 import logging
 
-LOGGER = logging.getLogger('custom_components.keepsmile')
-DOMAIN = "keepsmile"
+LOGGER = logging.getLogger('custom_components.triones')
+DOMAIN = "triones"
